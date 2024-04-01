@@ -332,6 +332,10 @@ nav .fas{
     }
     .header-text h1{
         font-size: 30px;
+        margin-top: -250px;
+    }
+    .header-text p{   
+        margin-top: -50px;
     }
     nav .fas{
         display: block;
